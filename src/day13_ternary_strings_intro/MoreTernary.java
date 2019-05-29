@@ -5,7 +5,7 @@ public class MoreTernary {
 	public static void main(String[] args) {
 		
 		String quality="good";
-		int rating =(quality.contentEquals("good"))? 100 : 0;
+		int rating =(quality.equals("good"))? 100 : 0;
 		System.out.println("Rating: " + rating);
 		
 	 int PMHour= 6;

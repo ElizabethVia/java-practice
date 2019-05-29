@@ -22,8 +22,7 @@ public class StartsEndsWith {
         if (name.startsWith("Mr.")) {
         	System.out.println("man");
         }else if(name.startsWith("Mrs")){
-        	
-       
+        
         System.out.println("married women");
         }else if(name.startsWith("Ms.")) {
         	System.out.println("some women");

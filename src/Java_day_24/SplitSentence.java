@@ -18,7 +18,7 @@ public class SplitSentence {
 			
 		}
 		System.out.println("Position: "+counter);
-		System.out.println(words[counter]);//Java
+		//System.out.println(words[counter]);//Java
 	}
 
 }

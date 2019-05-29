@@ -13,7 +13,7 @@ public class ArrayWithString {
 		//countries[0]="USA";//out of bounce array because is 0
 		//String name=null;//0 vacio
 		String[] fruits=new String[] {"apple","orange"};
-		//for each loop stads for collections of data
+		//for each loop stands for collections of data
 		//we need specify data type,variable name: our collection of data
 		//for each loop
 		//or enhanced loop

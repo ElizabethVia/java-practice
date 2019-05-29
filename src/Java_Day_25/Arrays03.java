@@ -25,7 +25,7 @@ public class Arrays03 {
 		System.out.println("City 1 population :"+population[idx]);
 		
 		String str="abc";
-		                                                                //3 it will print out 4455
+		                         //3 it will print out 4455,it will print the index 3
 		System.out.println("City STR.length population :"+population[str.length()]);
 		
 		//string array called cities="Miami","London", "tokyo","Rome", "New York";

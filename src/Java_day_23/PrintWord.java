@@ -9,7 +9,7 @@ public class PrintWord {
 				//if condition is true ,go back to update statement
 				continue;
 			}
-			System.out.print(word.substring(i,i+1));
+			System.out.print(word.substring(i,i+1));//jv
 		}
 	}
 

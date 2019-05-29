@@ -6,7 +6,7 @@ public class GoogleSearchTest {
 		// TODO Auto-generated method stub
 		
 		String item="java";
-		String pageTitle=item+ "Google Search";
+		String pageTitle=item+ "- Google Search";
 		
 		//test if page Title starts with item
 		if (pageTitle.startsWith(item)) {
